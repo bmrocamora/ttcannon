@@ -30,5 +30,5 @@ Simple control of DC motor speeds can set ball velocity and spin rates.
 Case of single wheel and 
 
 
-![Ball Speed and Spin Model](/images/Ball Speed and Spin.png)
+![Ball Speed and Spin Model](/images/Ball Speed and Spin 1.png)
 Format: ![Alt Text](url)
