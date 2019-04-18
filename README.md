@@ -27,8 +27,9 @@ Simple control of these angles using servo control libraries.
 
 ### Ball Speed and Spins
 Simple control of DC motor speeds can set ball velocity and spin rates. 
-Case of single wheel and 
+We can model the single wheel case as a disk which immediately gets accelerated to the speed of the wheel circumference and try to find the ball speed and spin as: 
 
+![Ball Speed and Spin Model 1](https://github.com/bmrocamora/ttcannon/blob/master/images/Ball%20Speed%20and%20Spin%201%20(1).png)
 
-![Ball Speed and Spin Model](https://github.com/bmrocamora/ttcannon/blob/master/images/Ball%20Speed%20and%20Spin%201.png)
-Format: ![Alt Text](url)
+Decomposing the composite field of velocities we get:
+![Ball Speed and Spin Model 2](https://github.com/bmrocamora/ttcannon/blob/master/images/Ball%20Speed%20and%20Spin%202.png)
