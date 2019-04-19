@@ -28,11 +28,11 @@ Simple control of these angles using servo control libraries.
 ### Ball Speed and Spins
 Simple control of DC motor speeds can set ball velocity and spin rates. 
 
-[More information on modelling can be found in:](../blob/master/documentation/electronics_design.md)
+More information on electronics design can be found [here](../blob/master/documentation/electronics_design.md).
 
 
 ## Modelling Nozzle and Wheels
 
 Three wheels and linear combination of the induced velocity and spin rates.
 
-[More information on modelling can be found in:](../blob/master/documentation/speed_and_spin_modelling.md)
+More information on modelling can be found [here](../blob/master/documentation/speed_and_spin_modelling.md).
