@@ -1,3 +1,14 @@
+We can model the single wheel case as a disk which immediately gets accelerated to the speed of the wheel circumference and try to find the ball speed and spin as: 
+
+![Ball Speed and Spin Model 1](https://github.com/bmrocamora/ttcannon/blob/master/images/Ball%20Speed%20and%20Spin%201.png)
+
+Decomposing the composite field of velocities we get:
+![Ball Speed and Spin Model 2](https://github.com/bmrocamora/ttcannon/blob/master/images/Ball%20Speed%20and%20Spin%202.png)
+
+![Ball Speed and Spin Model 3](https://github.com/bmrocamora/ttcannon/blob/master/images/Ball%20Speed%20and%20Spin%203.png)
+![Ball Speed and Spin Model 4](https://github.com/bmrocamora/ttcannon/blob/master/images/Ball%20Speed%20and%20Spin%204.png)
+![Ball Speed and Spin Model 5](https://github.com/bmrocamora/ttcannon/blob/master/images/Ball%20Speed%20and%20Spin%205.png)
+
 Speed of the ball can then be obtained by the following equation:
 
 ![V_{B,y} = \frac{R}{3}(\omega_{W,1}+\omega_{W,2}+\omega_{W,3})](https://latex.codecogs.com/gif.latex?V_%7BB%2Cy%7D%20%3D%20%5Cfrac%7BR%7D%7B3%7D%28%5Comega_%7BW%2C1%7D&plus;%5Comega_%7BW%2C2%7D&plus;%5Comega_%7BW%2C3%7D%29)
